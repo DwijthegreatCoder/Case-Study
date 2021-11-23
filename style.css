@@ -1,0 +1,10 @@
+.images {
+    background-color: aqua;
+    width: 70%;
+    height: 400px;
+    color: black;
+    margin-left: 100px;
+    border: 5px solid white;
+    border-radius: 30px;
+}
+
